@@ -2,4 +2,4 @@
 -- scapy爬虫框架 ,  xpath节点分析, pyquery为辅提取的数据
 
 name:lucky_xu
-e-mail: lucky_xulu
+E-mail: lucky_xulu@foxmail.com
